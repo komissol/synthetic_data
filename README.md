@@ -1,2 +1,2 @@
-# synthetic_data-
+# synthetic_data
 Developing Synthetic Datasets in Python 
